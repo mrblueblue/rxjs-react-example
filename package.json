@@ -1,0 +1,19 @@
+{
+  "name": "rxjs-react-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrblueblue/rxjs-react-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrblueblue/rxjs-react-example/issues"
+  },
+  "homepage": "https://github.com/mrblueblue/rxjs-react-example#readme"
+}
